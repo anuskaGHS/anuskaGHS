@@ -47,12 +47,12 @@ BCA (AI & ML) student at Alliance University, Bangalore, focused on data analyti
 ## Featured Projects
 
 <p>
-  <a href="https://github.com/anuskaGHS/Return_Policy"><img alt="Return Policy" src="https://github-readme-stats.shion.dev/api/pin/?username=anuskaGHS&repo=Return_Policy&bg_color=0d1117&title_color=ff4d4d&text_color=c9d1d9&icon_color=ff4d4d&hide_border=true" /></a>
-  <a href="https://github.com/anuskaGHS/ConflictSense-AI"><img alt="ConflictSense AI" src="https://github-readme-stats.shion.dev/api/pin/?username=anuskaGHS&repo=ConflictSense-AI&bg_color=0d1117&title_color=ff4d4d&text_color=c9d1d9&icon_color=ff4d4d&hide_border=true" /></a>
+  <a href="https://github.com/anuskaGHS/Return_Policy"><img alt="Return Policy" src="https://github-readme-stats.shion.dev/api/pin/?username=anuskaGHS&repo=Return_Policy&v=2&bg_color=0d1117&title_color=ff4d4d&text_color=c9d1d9&icon_color=ff4d4d&hide_border=true" /></a>
+  <a href="https://github.com/anuskaGHS/ConflictSense-AI"><img alt="ConflictSense AI" src="https://github-readme-stats.shion.dev/api/pin/?username=anuskaGHS&repo=ConflictSense-AI&v=2&bg_color=0d1117&title_color=ff4d4d&text_color=c9d1d9&icon_color=ff4d4d&hide_border=true" /></a>
 </p>
 <p>
-  <a href="https://github.com/anuskaGHS/ISEWS"><img alt="ISEWS" src="https://github-readme-stats.shion.dev/api/pin/?username=anuskaGHS&repo=ISEWS&bg_color=0d1117&title_color=ff4d4d&text_color=c9d1d9&icon_color=ff4d4d&hide_border=true" /></a>
-  <a href="https://github.com/anuskaGHS/FundSight"><img alt="FundSight" src="https://github-readme-stats.shion.dev/api/pin/?username=anuskaGHS&repo=FundSight&bg_color=0d1117&title_color=ff4d4d&text_color=c9d1d9&icon_color=ff4d4d&hide_border=true" /></a>
+  <a href="https://github.com/anuskaGHS/ISEWS"><img alt="ISEWS" src="https://github-readme-stats.shion.dev/api/pin/?username=anuskaGHS&repo=ISEWS&v=2&bg_color=0d1117&title_color=ff4d4d&text_color=c9d1d9&icon_color=ff4d4d&hide_border=true" /></a>
+  <a href="https://github.com/anuskaGHS/FundSight"><img alt="FundSight" src="https://github-readme-stats.shion.dev/api/pin/?username=anuskaGHS&repo=FundSight&v=2&bg_color=0d1117&title_color=ff4d4d&text_color=c9d1d9&icon_color=ff4d4d&hide_border=true" /></a>
 </p>
 
 | Project | What it does | Built with | Links |
